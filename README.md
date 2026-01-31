@@ -3,37 +3,53 @@
 ![gilang](github-header-banner.png)
 <h1 align="left">Hey 🙌 What's up?</h1>
 
-###
+<!--
+**gilangaswatama71-rgb/gilangaswatama71-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="left">Hello World! I'm Gilang👍</p>
+Here are some ideas to get you started:
 
-###
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-<h2 align="left">About me</h2>
 
-###
+<!-- 🌱 I’m currently learning **html,css & js**😆👀
+📫 How to reach me: gilangaswatama71@gmail.com 
 
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning html,css & Js<br>🎯 Goals: 🚀. Passionate about building clean and responsive web interfaces. 🚀"</p>
+#### skils
+[![My Skills](https://skillicons.dev/icons?i=java,css,html,bootstrap,github&theme=light&perline=3)](https://skillicons.dev) 
 
-###
+![computers](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXp1anh6emQydHRuMnE4YTFlOGF1dm1nYTR2eXljM2d6Z3BxYWQwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif)
+-->
 
-<h2 align="left">I code with</h2>
+####  -->
 
-###
+# 💫 About Me:
+## Hello world! I'm Gilang 👋
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
 
-###
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gilangaswatama71@gmail.com) 
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=gilangaswatama71-rgb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=gilangaswatama71-rgb&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gilangaswatama71-rgb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+![computers](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXp1anh6emQydHRuMnE4YTFlOGF1dm1nYTR2eXljM2d6Z3BxYWQwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif)
+
+#### 🏆 GitHub stats
+![](https://github-profile-trophy.vercel.app/?username=gilangaswatama71-rgb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gilangaswatama71-rgb/gilangaswatama71-rgb/output/pacman-contribution-graph-dark.svg">
@@ -46,13 +62,6 @@
 <img src="https://raw.githubusercontent.com/gilangaswatama71-rgb/gilangaswatama71-rgb/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<h4 align="left">My stats👀👀</h4>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gilangaswatama71-rgb&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
 
 <p align="left">contact me</p>
 
@@ -74,3 +83,5 @@
 </div>
 
 ###
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) 
