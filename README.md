@@ -1,5 +1,6 @@
 ## Hello world! I'm Gilang 👋
 
+![gilang](github-header-banner.png)
 <!--
 **gilangaswatama71-rgb/gilangaswatama71-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,4 +20,11 @@ Here are some ideas to get you started:
 🌱 I’m currently learning **html,css & js**😆👀
 📫 How to reach me: gilangaswatama71@gmail.com 
 
+#### skils
+[![My Skills](https://skillicons.dev/icons?i=java,css,html,bootstrap,github&theme=light&perline=3)](https://skillicons.dev)
+
 ![computers](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXp1anh6emQydHRuMnE4YTFlOGF1dm1nYTR2eXljM2d6Z3BxYWQwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif)
+
+
+#### my Github Stats
+[![gilang's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilangaswatama71-rgb)]
